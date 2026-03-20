@@ -15,8 +15,8 @@ It lists all local user profiles from `C:\Users`, lets you select a user by numb
 
 | Field       | Details                                      |
 |-------------|----------------------------------------------|
-| **Author**  | Soroush Tavanaei                             |
-| **Dept.**   | IT/OT SepNet Support (SMoL) – Monheim        |
+| **Author**  | Soroush @ Hawax                             |
+| **Dept.**   | IT/OT SepNet Support (SMoL)       |
 | **Version** | 2.0                                          |
 | **Created** | 16.12.2025                                   |
 | **Updated** | 19.03.2026                                   |
@@ -54,8 +54,8 @@ Delete_UserProfile.bat
 
 ```
   ============================================================
-   Author  : Soroush Tavanaei
-   Dept.   : IT/OT SepNet Support (SMoL) - Monheim
+   Author  : Soroush @ Hawax
+   Dept.   : IT/OT SepNet Support (SMoL) 
    Version : 2.0
    Purpose : Local User Account Deletion Tool
    NOTE    : Must be run with Administrator privileges.
@@ -137,4 +137,4 @@ Every deletion attempt is automatically logged to `UserDeletion_Log.txt` in the 
 
 ## 📄 License
 
-For internal IT use only — FPC-LEV / IT/OT SepNet Support Team, Monheim.
+For internal IT use only 
