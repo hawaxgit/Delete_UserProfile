@@ -15,8 +15,8 @@ It lists all local user profiles from `C:\Users`, lets you select a user by numb
 
 | Field       | Details                                      |
 |-------------|----------------------------------------------|
-| **Author**  | Soroush @ Hawax                             |
-| **Dept.**   | IT/OT SepNet Support (SMoL)       |
+| **Author**  | Soroush @ Hawax                              |
+| **Dept.**   | IT/OT AllRounder                             |
 | **Version** | 2.0                                          |
 | **Created** | 16.12.2025                                   |
 | **Updated** | 19.03.2026                                   |
