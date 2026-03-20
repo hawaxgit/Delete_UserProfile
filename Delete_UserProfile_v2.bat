@@ -1,7 +1,7 @@
 @echo off
 :: ============================================================
 ::  Author  : Soroush Tavanaei
-::  Dept.   : IT/OT SepNet Support (SMoL) – Monheim
+::  Dept.   : IT/OT Allrounder
 ::  Version : 2.0
 ::  Created : 16.12.2025
 ::  Updated : 19.03.2026
@@ -17,7 +17,7 @@ cls
 echo.
 echo  ============================================================
 echo   Author  : Soroush Tavanaei
-echo   Dept.   : IT/OT SepNet Support (SMoL) - Monheim
+echo   Dept.   : IT/OT Allrounder
 echo   Version : 2.0
 echo   Purpose : Local User Account Deletion Tool
 echo   NOTE    : Must be run with Administrator privileges.
