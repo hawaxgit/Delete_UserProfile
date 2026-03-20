@@ -55,7 +55,7 @@ Delete_UserProfile.bat
 ```
   ============================================================
    Author  : Soroush @ Hawax
-   Dept.   : IT/OT SepNet Support (SMoL) 
+   Dept.   : IT/OT AllRounder  
    Version : 2.0
    Purpose : Local User Account Deletion Tool
    NOTE    : Must be run with Administrator privileges.
